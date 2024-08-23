@@ -27,4 +27,4 @@ Welcome to my GitHub profile! I'm a passionate Computer Science student at the I
 - He/Him
 
 ## ⚡ Fun Fact
-I can solve Sleepy 😄 😄  🧩
+I am Sleepy 😄 😄  🧩
