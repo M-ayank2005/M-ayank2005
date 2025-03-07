@@ -15,50 +15,73 @@ Thrilled to connect with you here! As a web developer, I'm adept in MERN, Fireba
 
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
-## Connect with me:
+## 🌐 Connect with me:
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/mayank-mishra-5372112ab/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Mayank" height="30" width="40" /></a>
-  <a href="https://codeforces.com/profile/Mayank05Mishra" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Mayank" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/mayank-mishra-5372112ab/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://codeforces.com/profile/Mayank05Mishra" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="30" width="40" />
+  </a>
+  <a href="https://www.codechef.com/users/mrmmishra" target="_blank">
+    <img src="https://cdn.codechef.com/images/cc-logo.svg" alt="CodeChef" height="30" width="40" />
+  </a>
+  <a href="https://leetcode.com/Mayank_Mishra2005" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" height="30" width="40" />
+  </a>
+  <a href="https://my-portfolio-beta-five-30.vercel.app/" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/FFFFFF/portfolio.png" alt="Portfolio" height="30" width="40" />
+  </a>
 </p>
 
+## 🚀 Tech Stack
+Here are some of the technologies I work with:
 
-
-## Languages and Tools:
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-</p>
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react)
+![Express.js](https://img.shields.io/badge/-Express.js-404D59?style=flat-square&logo=express)
+![Apache](https://img.shields.io/badge/-Apache-D22128?style=flat-square&logo=apache&logoColor=white)
+![Nginx](https://img.shields.io/badge/-Nginx-269539?style=flat-square&logo=nginx&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
 
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
 ## 📊 GitHub Stats:
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=M-ayank2005&show_icons=true&locale=en" alt="Mayank" />
+  <img src="https://github-readme-stats.vercel.app/api?username=M-ayank2005&show_icons=true&locale=en&theme=tokyonight" alt="Mayank" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.vercel.app?user=M-ayank2005&theme=tokyonight" alt="Mayank" />
 </p>
 
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=M-ayank2005&" alt="Mayank" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=M-ayank2005&show_icons=true&locale=en&layout=compact" alt="Mayank" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=M-ayank2005&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Mayank" />
 </p>
 
 
-<img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+
+---
+
+## 💬 Random Dev Quote
+> "When you feel the need to write a comment, first try to refactor the code so that any comment becomes superfluous."  
+— *Kent Beck*
+
+---
+
+
 
 ## Thank you for Visiting!
 ![](https://komarev.com/ghpvc/?username=your-github-M-ayank2005)
