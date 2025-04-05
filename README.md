@@ -63,14 +63,16 @@ Here are some of the technologies I work with:
 </p>
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.vercel.app?user=M-ayank2005&theme=tokyonight" alt="Mayank" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=M-ayank2005&theme=tokyonight" />
 </p>
-
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=M-ayank2005&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Mayank" />
 </p>
 
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=M-ayank2005&theme=tokyonight" />
+</p>
 
 
 ---
