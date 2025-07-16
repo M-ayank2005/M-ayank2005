@@ -7,9 +7,9 @@ Thrilled to connect with you here! As a web developer, I'm adept in MERN, Fireba
 
 - 🔭 I’m currently working on my **CP Skills**
 - 🌱 I’m currently learning **Blockchain Technology**
-- 💬 Working to improve **MERN Stack**,**NextJS** and **DSA** skills
+- 💬 Working to improve **Web Dev**, and **DSA** skills
 - 📫 How to reach me: [mrmishramayank2005@gmail.com](mailto:mrmishramayank2005@gmail.com)
-- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1oDUM0xyxtE1-DsVioefYcczOHv5F6bJH/view?usp=sharing)
+- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/19x2vitmOM79JQi27_RZfrCSnWn1jqPDk/view?usp=sharing)
 
 
 
@@ -74,15 +74,7 @@ Here are some of the technologies I work with:
   <img src="https://github-profile-trophy.vercel.app/?username=M-ayank2005&theme=tokyonight" />
 </p>
 
-
 ---
-
-## 💬 Random Dev Quote
-> "When you feel the need to write a comment, first try to refactor the code so that any comment becomes superfluous."  
-— *Kent Beck*
-
----
-
 
 
 ## Thank you for Visiting!
