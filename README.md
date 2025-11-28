@@ -1,13 +1,13 @@
 <h1 align="center">Hi there 👋, I'm Mayank Mishra!</h1>
-<h3 align="center">A passionate FULL STACK developer</h3>
+<h3 align="center">Computer Science Undergraduate at IIITL</h3>
 
 ![header_](https://user-images.githubusercontent.com/80106274/155994781-7c22a80e-99b6-4e2e-a288-a706e1818289.png)
 
 Thrilled to connect with you here! As a web developer, I'm adept in MERN, Firebase,Next.js and other technologies, driven by a passion for crafting engaging and user-friendly web experiences. Eager to learn and grow, I actively seek new opportunities to enhance my skills and contribute to innovative projects.
 
-- 🔭 I’m currently working on my **CP Skills**
-- 🌱 I’m currently learning **Artificial Intelligence and AI Agents**
-- 💬 Working to improve **Web Dev**, and **DSA** skills
+- 🔭 I’m currently working on my **DSA Skills**
+- 🌱 I’m currently learning **System Design and Artificial Intelligence**
+- 💬 Working to improve **Web Development**, and **DevOps** skills
 - 📫 How to reach me: [mrmishramayank2005@gmail.com](mailto:mrmishramayank2005@gmail.com)
 - 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1E33GzCvq-L63jmpKhd68r7eAIKmIuwbm/view?usp=drive_link)
 
