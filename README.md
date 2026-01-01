@@ -76,6 +76,9 @@ Here are some of the technologies I work with:
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
 ## 📊 GitHub Stats:
+<p align="left">
+  <img src="https://metrics.lecoq.io/M-ayank2005?template=classic&languages=1&isocalendar=1&theme=tokyo-night" />
+</p>
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=M-ayank2005&show_icons=true&locale=en&theme=tokyonight" alt="Mayank" />
